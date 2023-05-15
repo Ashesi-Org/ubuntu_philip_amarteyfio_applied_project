@@ -30,7 +30,7 @@ Ubuntu offers several key features that enhance collaboration. These are:
 <li>Digitally Assisted Peer Evaluation</li>
 
 ## Installation
-Since Ubuntu is a web-based application, there is no need for installation or setup on your local machine. Simply open a web browser and navigate to the Ubuntu website. <a href = "www.ubuntuapp.herokuapp.com">Ubuntu</a>
+Since Ubuntu is a web-based application, there is no need for installation or setup on your local machine. Simply open a web browser and navigate to the Ubuntu website. <a href = "https://www.ubuntuapp.herokuapp.com">Ubuntu</a>
 <br>
 <br>
 However to install locally, you will need a local development server e.g XAMPP (https://www.apachefriends.org/download.html)
