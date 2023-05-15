@@ -11,10 +11,7 @@ ii. Provide an innovative method of peer assessment which combines scores from p
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
-
 ## Description
 The Ashesi University Collaborative Web Application is a Senior Capstone Project designed to provide a comprehensive and organized platform for tackling team activities and facilitating peer assessment. The application aims to revolutionize the way teams collaborate and evaluate each other by combining scores from peer evaluation surveys with data from user activity on the platform
 
@@ -64,6 +61,10 @@ After logging in or signing up, you will be directed to your dashboard, where yo
 <br>
 <br>
 ![image](https://github.com/Ashesi-Org/ubuntu_philip_amarteyfio_applied_project/assets/77846610/47f6f7d4-7324-4387-8567-1ee26ef67d56)
+
+
+## Contact
+Email: philip.amarteyfio@ashesi.edu.gh
 
 
 
